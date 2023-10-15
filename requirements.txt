@@ -3,3 +3,4 @@ plotly==5.14.1
 numpy==1.23.3
 pandas==1.4.4
 replicate==0.15.4
+openai==0.28.1
